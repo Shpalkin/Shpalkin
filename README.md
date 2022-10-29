@@ -11,4 +11,4 @@
 💬I like write code
 😄I play the guitar since 2012 years
 ⚡Student of medical University
-mailbox:How to reach me: [![Vk.com](https://vk.com/neodum)](your-vk.com-url)
+mailbox:How to reach me: [!https://vk.com/neodum)](https://vk.com/neodum)](your-vk.com-url)
