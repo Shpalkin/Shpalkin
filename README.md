@@ -8,7 +8,7 @@
 
 ## I'm Maria. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-:💬I like write code
-:😄I play the guitar since 2012 years
-:⚡Student of medical University
-:mailbox:How to reach me: [![Vk.com](https://vk.com/neodum)](your-vk.com-url)
+💬I like write code
+😄I play the guitar since 2012 years
+⚡Student of medical University
+mailbox:How to reach me: [![Vk.com](https://vk.com/neodum)](your-vk.com-url)
