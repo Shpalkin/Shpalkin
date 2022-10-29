@@ -1,16 +1,14 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/tMdyKBra7ntdqSbOV8/giphy.gif" width="100"/>
+</div>
+
+### :woman_technologist: About Me :
+
 ### Hi there 👋
 
-<!--
-**Shpalkin/Shpalkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Maria. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:💬I like write code
+:😄I play the guitar since 2012 years
+:⚡Student of medical University
+:mailbox:How to reach me: [![Vk.com](https://vk.com/neodum)](your-vk.com-url)
