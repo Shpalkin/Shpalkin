@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-## I'm Maria. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+## I'm Maria. I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 <br/>💬I like write code
 <br/>😄I play the guitar since 2012 years
